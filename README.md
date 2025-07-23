@@ -33,10 +33,6 @@ This is a **machine learning-powered web app** built with **Streamlit** that pre
 
 ---
 
-## 🖥️ Screenshot
-
-Screenshot: Screenshot from 2025-07-23 19-03-52.png
-
 ---
 
 ## 🛠️ Setup Instructions
